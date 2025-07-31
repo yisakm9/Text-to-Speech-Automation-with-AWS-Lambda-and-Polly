@@ -1,7 +1,3 @@
- a professional project description for your AWS Lambda + Polly + S3 solution, explicitly framed as a Cost- and Security-Aware Serverless Project.
-
-
-
 # Serverless Text-to-Speech Service (Cost- and Security-Aware)
 
 # Overview
