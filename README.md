@@ -1,6 +1,3 @@
-Here's a professional README for your project, based on the provided `lambda_function.py` and `main.tf`. It includes an architecture diagram and detailed explanation.
-
-
 
 # Text-to-Speech Automation with AWS Lambda and Polly
 
