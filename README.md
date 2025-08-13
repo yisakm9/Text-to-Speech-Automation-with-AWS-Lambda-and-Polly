@@ -4,8 +4,8 @@
 This project automates the generation of speech (MP3) from text using **AWS Lambda**, **Amazon Polly**, and **Amazon S3**.
 The system supports two workflows:
 
-1. API Gateway Invocation** – Clients send text via an API request.
-2. S3 Trigger – Upload a `.txt` file to S3, and the Lambda function automatically generates an MP3.
+1. API Gateway Invocation – Clients send text via an API request.
+2. S3 Trigger – Upload a '.txt' file to S3, and the Lambda function automatically generates an MP3.
 
 
 
