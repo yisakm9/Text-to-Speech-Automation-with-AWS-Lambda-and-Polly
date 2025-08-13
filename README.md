@@ -36,9 +36,9 @@ API Gateway Invocation:
   * Triggered when a `.txt` file is uploaded to an input S3 bucket.
   * Downloads the text file, converts it to speech, and uploads the `.mp3` back to the `AUDIO_BUCKET`.
 
-Shared Functionality:**
+Shared Functionality:
 
-  * Uses `boto3` to interact with S3 and Polly.
+  * Uses 'boto3' to interact with S3 and Polly.
   * Outputs the audio file URL in the response.
 
 # Key Environment Variable:
